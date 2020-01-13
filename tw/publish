@@ -2,5 +2,5 @@
 
 # build a single File TW in share/output/index.html
 
-tiddlywiki.js share --build index
+tiddlywiki tw/share --build index
 mv share/output/index.html ..
